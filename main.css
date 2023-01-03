@@ -59,7 +59,7 @@ section {
 }
 
 img {
-  border-radius: 50%;
+  clip-path: circle();
 }
 
 .user p {
