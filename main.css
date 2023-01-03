@@ -1,0 +1,38 @@
+section {
+    border-top: 5px solid green ;
+    border-bottom: 5px solid rgb(150, 210, 46);
+}
+
+#paragraph1 {
+    border-bottom: 2px solid darkcyan;
+}
+
+#paragraph2 {
+    border-bottom: 2px dotted green;
+}
+
+#border__dotted {
+    border: 3px dotted red;
+}
+
+#border__inset {
+    border: 3px inset indigo;
+}
+
+#border__crimson {
+    border: 3px solid crimson;
+}
+
+img {
+    border-radius: 50%;
+}
+
+div p {
+    border-bottom: 2px solid yellow ;
+}
+
+button {
+    border-style: none;
+    border-radius: 5px;
+    background-color: chocolate;
+}
